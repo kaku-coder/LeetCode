@@ -8,8 +8,6 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 - 🧠 Platform: LeetCode
 - 📈 Goal: Strengthen problem-solving skills and prepare for Software Engineering interviews.
 
-## 📂 Repository Structure
-
 ##🧑🏻‍💻 Tech Stack
 
 - JavaScript (ES6+)
