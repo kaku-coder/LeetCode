@@ -39,7 +39,7 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 | Difficulty | Solved |
 |------------|--------|
 | 🟢 Easy | 04 |
-| 🟡 Medium | 0 |
+| 🟡 Medium | 01 |
 | 🔴 Hard | 0 |
 
 
