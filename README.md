@@ -61,6 +61,7 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 | ------- |
 | [0027-remove-element](https://github.com/kaku-coder/LeetCode/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/kaku-coder/LeetCode/tree/master/0048-rotate-image) |
+| [0088-merge-sorted-array](https://github.com/kaku-coder/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0832-flipping-an-image](https://github.com/kaku-coder/LeetCode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/kaku-coder/LeetCode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/kaku-coder/LeetCode/tree/master/1572-matrix-diagonal-sum) |
@@ -80,6 +81,7 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/kaku-coder/LeetCode/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/kaku-coder/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0832-flipping-an-image](https://github.com/kaku-coder/LeetCode/tree/master/0832-flipping-an-image) |
 ## Bit Manipulation
 |  |
@@ -89,4 +91,8 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/kaku-coder/LeetCode/tree/master/0048-rotate-image) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/kaku-coder/LeetCode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
