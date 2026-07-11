@@ -94,6 +94,7 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/kaku-coder/LeetCode/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/kaku-coder/LeetCode/tree/master/0069-sqrtx) |
 ## Sorting
 |  |
 | ------- |
@@ -106,5 +107,6 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/kaku-coder/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/kaku-coder/LeetCode/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/kaku-coder/LeetCode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
