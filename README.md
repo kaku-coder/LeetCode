@@ -59,6 +59,7 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kaku-coder/LeetCode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/kaku-coder/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/kaku-coder/LeetCode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/kaku-coder/LeetCode/tree/master/0048-rotate-image) |
@@ -88,6 +89,7 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kaku-coder/LeetCode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/kaku-coder/LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/kaku-coder/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0832-flipping-an-image](https://github.com/kaku-coder/LeetCode/tree/master/0832-flipping-an-image) |
@@ -129,4 +131,8 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kaku-coder/LeetCode/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/kaku-coder/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
