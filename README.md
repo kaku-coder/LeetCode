@@ -38,8 +38,8 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 
 | Difficulty | Solved |
 |------------|--------|
-| 🟢 Easy | 14 |
-| 🟡 Medium | 01 |
+| 🟢 Easy | 20 |
+| 🟡 Medium | 05 |
 | 🔴 Hard | 0 |
 
 
