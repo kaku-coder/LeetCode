@@ -38,7 +38,7 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 
 | Difficulty | Solved |
 |------------|--------|
-| 🟢 Easy | 20 |
+| 🟢 Easy | 21 |
 | 🟡 Medium | 05 |
 | 🔴 Hard | 0 |
 
