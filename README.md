@@ -127,6 +127,7 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 | [0169-majority-element](https://github.com/kaku-coder/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/kaku-coder/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/kaku-coder/LeetCode/tree/master/0217-contains-duplicate) |
+| [0387-first-unique-character-in-a-string](https://github.com/kaku-coder/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/kaku-coder/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/kaku-coder/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2351-first-letter-to-appear-twice](https://github.com/kaku-coder/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
@@ -138,6 +139,7 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kaku-coder/LeetCode/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/kaku-coder/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/kaku-coder/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 ## Greedy
 |  |
@@ -146,7 +148,12 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 ## String
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/kaku-coder/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/kaku-coder/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/kaku-coder/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2351-first-letter-to-appear-twice](https://github.com/kaku-coder/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/kaku-coder/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
