@@ -59,6 +59,7 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kaku-coder/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/kaku-coder/LeetCode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/kaku-coder/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/kaku-coder/LeetCode/tree/master/0035-search-insert-position) |
@@ -124,6 +125,7 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kaku-coder/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/kaku-coder/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/kaku-coder/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/kaku-coder/LeetCode/tree/master/0217-contains-duplicate) |
