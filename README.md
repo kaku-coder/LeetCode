@@ -74,6 +74,7 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 | [0867-transpose-matrix](https://github.com/kaku-coder/LeetCode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/kaku-coder/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1748-sum-of-unique-elements](https://github.com/kaku-coder/LeetCode/tree/master/1748-sum-of-unique-elements) |
+| [2418-sort-the-people](https://github.com/kaku-coder/LeetCode/tree/master/2418-sort-the-people) |
 ## Matrix
 |  |
 | ------- |
@@ -113,6 +114,7 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 | [0088-merge-sorted-array](https://github.com/kaku-coder/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/kaku-coder/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kaku-coder/LeetCode/tree/master/0217-contains-duplicate) |
+| [2418-sort-the-people](https://github.com/kaku-coder/LeetCode/tree/master/2418-sort-the-people) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -135,6 +137,7 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 | [1748-sum-of-unique-elements](https://github.com/kaku-coder/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/kaku-coder/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2351-first-letter-to-appear-twice](https://github.com/kaku-coder/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
+| [2418-sort-the-people](https://github.com/kaku-coder/LeetCode/tree/master/2418-sort-the-people) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -157,6 +160,7 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 | [0771-jewels-and-stones](https://github.com/kaku-coder/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/kaku-coder/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2351-first-letter-to-appear-twice](https://github.com/kaku-coder/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
+| [2418-sort-the-people](https://github.com/kaku-coder/LeetCode/tree/master/2418-sort-the-people) |
 ## Queue
 |  |
 | ------- |
