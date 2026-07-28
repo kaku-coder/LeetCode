@@ -74,6 +74,7 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 | [0867-transpose-matrix](https://github.com/kaku-coder/LeetCode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/kaku-coder/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1748-sum-of-unique-elements](https://github.com/kaku-coder/LeetCode/tree/master/1748-sum-of-unique-elements) |
+| [2404-most-frequent-even-element](https://github.com/kaku-coder/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/kaku-coder/LeetCode/tree/master/2418-sort-the-people) |
 ## Matrix
 |  |
@@ -137,6 +138,7 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 | [1748-sum-of-unique-elements](https://github.com/kaku-coder/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/kaku-coder/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2351-first-letter-to-appear-twice](https://github.com/kaku-coder/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
+| [2404-most-frequent-even-element](https://github.com/kaku-coder/LeetCode/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/kaku-coder/LeetCode/tree/master/2418-sort-the-people) |
 ## Divide and Conquer
 |  |
@@ -149,6 +151,7 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 | [0387-first-unique-character-in-a-string](https://github.com/kaku-coder/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1748-sum-of-unique-elements](https://github.com/kaku-coder/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2351-first-letter-to-appear-twice](https://github.com/kaku-coder/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
+| [2404-most-frequent-even-element](https://github.com/kaku-coder/LeetCode/tree/master/2404-most-frequent-even-element) |
 ## Greedy
 |  |
 | ------- |
