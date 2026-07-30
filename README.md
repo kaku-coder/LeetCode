@@ -62,6 +62,7 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 | [0001-two-sum](https://github.com/kaku-coder/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/kaku-coder/LeetCode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/kaku-coder/LeetCode/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/kaku-coder/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/kaku-coder/LeetCode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/kaku-coder/LeetCode/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/kaku-coder/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -123,6 +124,7 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/kaku-coder/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/kaku-coder/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/kaku-coder/LeetCode/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/kaku-coder/LeetCode/tree/master/0704-binary-search) |
