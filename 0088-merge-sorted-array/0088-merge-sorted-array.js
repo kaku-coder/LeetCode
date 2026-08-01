@@ -35,4 +35,5 @@ var merge = function (nums1, m, nums2, n) {
   for (let k = 0; k < m + n; k++) {
     nums1[k] = newarray[k];
   }
+console.log(newarray)
 };
