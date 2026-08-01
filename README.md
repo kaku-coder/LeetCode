@@ -70,6 +70,7 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 | [0136-single-number](https://github.com/kaku-coder/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/kaku-coder/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kaku-coder/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/kaku-coder/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0566-reshape-the-matrix](https://github.com/kaku-coder/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0704-binary-search](https://github.com/kaku-coder/LeetCode/tree/master/0704-binary-search) |
 | [0832-flipping-an-image](https://github.com/kaku-coder/LeetCode/tree/master/0832-flipping-an-image) |
@@ -137,6 +138,7 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 | [0169-majority-element](https://github.com/kaku-coder/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/kaku-coder/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/kaku-coder/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/kaku-coder/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/kaku-coder/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/kaku-coder/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1748-sum-of-unique-elements](https://github.com/kaku-coder/LeetCode/tree/master/1748-sum-of-unique-elements) |
@@ -172,4 +174,8 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/kaku-coder/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/kaku-coder/LeetCode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
