@@ -67,6 +67,7 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 | [0048-rotate-image](https://github.com/kaku-coder/LeetCode/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/kaku-coder/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kaku-coder/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/kaku-coder/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/kaku-coder/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/kaku-coder/LeetCode/tree/master/0217-contains-duplicate) |
 | [0566-reshape-the-matrix](https://github.com/kaku-coder/LeetCode/tree/master/0566-reshape-the-matrix) |
@@ -102,6 +103,7 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/kaku-coder/LeetCode/tree/master/0136-single-number) |
 | [0832-flipping-an-image](https://github.com/kaku-coder/LeetCode/tree/master/0832-flipping-an-image) |
 | [2351-first-letter-to-appear-twice](https://github.com/kaku-coder/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 ## Math
