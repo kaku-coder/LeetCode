@@ -72,6 +72,7 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 | [0217-contains-duplicate](https://github.com/kaku-coder/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kaku-coder/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/kaku-coder/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/kaku-coder/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0566-reshape-the-matrix](https://github.com/kaku-coder/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0704-binary-search](https://github.com/kaku-coder/LeetCode/tree/master/0704-binary-search) |
 | [0832-flipping-an-image](https://github.com/kaku-coder/LeetCode/tree/master/0832-flipping-an-image) |
@@ -102,6 +103,7 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 | [0088-merge-sorted-array](https://github.com/kaku-coder/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/kaku-coder/LeetCode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kaku-coder/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/kaku-coder/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0832-flipping-an-image](https://github.com/kaku-coder/LeetCode/tree/master/0832-flipping-an-image) |
 ## Bit Manipulation
 |  |
@@ -123,6 +125,7 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 | [0217-contains-duplicate](https://github.com/kaku-coder/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kaku-coder/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/kaku-coder/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/kaku-coder/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2418-sort-the-people](https://github.com/kaku-coder/LeetCode/tree/master/2418-sort-the-people) |
 ## Dynamic Programming
 |  |
@@ -135,6 +138,7 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 | [0035-search-insert-position](https://github.com/kaku-coder/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/kaku-coder/LeetCode/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/kaku-coder/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/kaku-coder/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/kaku-coder/LeetCode/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -146,6 +150,7 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 | [0219-contains-duplicate-ii](https://github.com/kaku-coder/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/kaku-coder/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/kaku-coder/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/kaku-coder/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/kaku-coder/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/kaku-coder/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1748-sum-of-unique-elements](https://github.com/kaku-coder/LeetCode/tree/master/1748-sum-of-unique-elements) |
