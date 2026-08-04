@@ -151,6 +151,7 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 | [0242-valid-anagram](https://github.com/kaku-coder/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/kaku-coder/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kaku-coder/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/kaku-coder/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kaku-coder/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/kaku-coder/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1748-sum-of-unique-elements](https://github.com/kaku-coder/LeetCode/tree/master/1748-sum-of-unique-elements) |
@@ -166,6 +167,7 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kaku-coder/LeetCode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/kaku-coder/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kaku-coder/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1748-sum-of-unique-elements](https://github.com/kaku-coder/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2351-first-letter-to-appear-twice](https://github.com/kaku-coder/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
@@ -178,6 +180,7 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/kaku-coder/LeetCode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/kaku-coder/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kaku-coder/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/kaku-coder/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/kaku-coder/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
