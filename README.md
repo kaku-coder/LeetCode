@@ -75,6 +75,7 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 | [0350-intersection-of-two-arrays-ii](https://github.com/kaku-coder/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0566-reshape-the-matrix](https://github.com/kaku-coder/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/kaku-coder/LeetCode/tree/master/0575-distribute-candies) |
+| [0645-set-mismatch](https://github.com/kaku-coder/LeetCode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/kaku-coder/LeetCode/tree/master/0704-binary-search) |
 | [0832-flipping-an-image](https://github.com/kaku-coder/LeetCode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/kaku-coder/LeetCode/tree/master/0867-transpose-matrix) |
@@ -111,6 +112,7 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 | ------- |
 | [0136-single-number](https://github.com/kaku-coder/LeetCode/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/kaku-coder/LeetCode/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/kaku-coder/LeetCode/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/kaku-coder/LeetCode/tree/master/0832-flipping-an-image) |
 | [2351-first-letter-to-appear-twice](https://github.com/kaku-coder/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 ## Math
@@ -129,6 +131,7 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 | [0349-intersection-of-two-arrays](https://github.com/kaku-coder/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kaku-coder/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/kaku-coder/LeetCode/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/kaku-coder/LeetCode/tree/master/0645-set-mismatch) |
 | [2418-sort-the-people](https://github.com/kaku-coder/LeetCode/tree/master/2418-sort-the-people) |
 ## Dynamic Programming
 |  |
@@ -158,6 +161,7 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 | [0387-first-unique-character-in-a-string](https://github.com/kaku-coder/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/kaku-coder/LeetCode/tree/master/0389-find-the-difference) |
 | [0575-distribute-candies](https://github.com/kaku-coder/LeetCode/tree/master/0575-distribute-candies) |
+| [0645-set-mismatch](https://github.com/kaku-coder/LeetCode/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/kaku-coder/LeetCode/tree/master/0771-jewels-and-stones) |
 | [1748-sum-of-unique-elements](https://github.com/kaku-coder/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/kaku-coder/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
