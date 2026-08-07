@@ -79,6 +79,7 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 | [0704-binary-search](https://github.com/kaku-coder/LeetCode/tree/master/0704-binary-search) |
 | [0832-flipping-an-image](https://github.com/kaku-coder/LeetCode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/kaku-coder/LeetCode/tree/master/0867-transpose-matrix) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/kaku-coder/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1572-matrix-diagonal-sum](https://github.com/kaku-coder/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1748-sum-of-unique-elements](https://github.com/kaku-coder/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2404-most-frequent-even-element](https://github.com/kaku-coder/LeetCode/tree/master/2404-most-frequent-even-element) |
@@ -164,6 +165,7 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 | [0645-set-mismatch](https://github.com/kaku-coder/LeetCode/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/kaku-coder/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/kaku-coder/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/kaku-coder/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1748-sum-of-unique-elements](https://github.com/kaku-coder/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/kaku-coder/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2351-first-letter-to-appear-twice](https://github.com/kaku-coder/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
@@ -207,4 +209,8 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/kaku-coder/LeetCode/tree/master/0219-contains-duplicate-ii) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/kaku-coder/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 <!---LeetCode Topics End-->
