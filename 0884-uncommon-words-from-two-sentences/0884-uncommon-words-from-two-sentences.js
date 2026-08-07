@@ -1,33 +1,18 @@
 /**
- * @param {string} s1
- * @param {string} s2
- * @return {string[]}
+ * @param {number[]} nums
+ * @param {number} target
+ * @return {number[]}
  */
-var uncommonFromSentences = function (s1, s2) {
+var twoSum = function(nums, target) {
+    let ans = []
     let map = new Map()
-    let arr = []
-    let s1Split = s1.split(" ")
-    let s2Split = s2.split(" ")
-
-    for (let num of s1Split) {
-        if (map.has(num)) {
-            map.set(num, map.get(num) + 1)
-        } else {
-            map.set(num, 1)
+    for(let i = 0;i<nums.length;i++){
+        if(map.has(target-nums[i])){
+            ans.push(i)
+            ans.push(map.get(target-nums[i]))
+        }else{
+            map.set(nums[i],i)
         }
     }
-
-    for (let num2 of s2Split) {
-        if (map.has(num2)) {
-            map.set(num2, map.get(num2) + 1)
-        } else {
-            map.set(num2, 1)
-        }
-    }
-    for (let [key, value] of map) {
-        if (value < 2) {
-            arr.push(key)
-        }
-    }
-    return arr
+    return ans
 };
