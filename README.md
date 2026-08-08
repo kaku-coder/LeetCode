@@ -80,6 +80,7 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 | [0832-flipping-an-image](https://github.com/kaku-coder/LeetCode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/kaku-coder/LeetCode/tree/master/0867-transpose-matrix) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kaku-coder/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1002-find-common-characters](https://github.com/kaku-coder/LeetCode/tree/master/1002-find-common-characters) |
 | [1572-matrix-diagonal-sum](https://github.com/kaku-coder/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1748-sum-of-unique-elements](https://github.com/kaku-coder/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [2404-most-frequent-even-element](https://github.com/kaku-coder/LeetCode/tree/master/2404-most-frequent-even-element) |
@@ -166,6 +167,7 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 | [0771-jewels-and-stones](https://github.com/kaku-coder/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/kaku-coder/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kaku-coder/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1002-find-common-characters](https://github.com/kaku-coder/LeetCode/tree/master/1002-find-common-characters) |
 | [1748-sum-of-unique-elements](https://github.com/kaku-coder/LeetCode/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/kaku-coder/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2351-first-letter-to-appear-twice](https://github.com/kaku-coder/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
@@ -198,6 +200,7 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 | [0389-find-the-difference](https://github.com/kaku-coder/LeetCode/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/kaku-coder/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/kaku-coder/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1002-find-common-characters](https://github.com/kaku-coder/LeetCode/tree/master/1002-find-common-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/kaku-coder/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2351-first-letter-to-appear-twice](https://github.com/kaku-coder/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/kaku-coder/LeetCode/tree/master/2418-sort-the-people) |
