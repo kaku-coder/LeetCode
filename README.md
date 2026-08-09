@@ -61,6 +61,7 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 | ------- |
 | [0001-two-sum](https://github.com/kaku-coder/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/kaku-coder/LeetCode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/kaku-coder/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/kaku-coder/LeetCode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kaku-coder/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/kaku-coder/LeetCode/tree/master/0035-search-insert-position) |
@@ -194,6 +195,7 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/kaku-coder/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/kaku-coder/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/kaku-coder/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kaku-coder/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -216,4 +218,8 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 |  |
 | ------- |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/kaku-coder/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/kaku-coder/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
