@@ -67,6 +67,7 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 | [0035-search-insert-position](https://github.com/kaku-coder/LeetCode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/kaku-coder/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/kaku-coder/LeetCode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/kaku-coder/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/kaku-coder/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kaku-coder/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/kaku-coder/LeetCode/tree/master/0136-single-number) |
@@ -123,6 +124,7 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/kaku-coder/LeetCode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/kaku-coder/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/kaku-coder/LeetCode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/kaku-coder/LeetCode/tree/master/0202-happy-number) |
 ## Sorting
