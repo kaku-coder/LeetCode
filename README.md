@@ -127,6 +127,7 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 | [0066-plus-one](https://github.com/kaku-coder/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/kaku-coder/LeetCode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/kaku-coder/LeetCode/tree/master/0202-happy-number) |
+| [0509-fibonacci-number](https://github.com/kaku-coder/LeetCode/tree/master/0509-fibonacci-number) |
 ## Sorting
 |  |
 | ------- |
@@ -144,6 +145,7 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 | ------- |
 | [0053-maximum-subarray](https://github.com/kaku-coder/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kaku-coder/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/kaku-coder/LeetCode/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -227,4 +229,12 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kaku-coder/LeetCode/tree/master/0014-longest-common-prefix) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/kaku-coder/LeetCode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/kaku-coder/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
