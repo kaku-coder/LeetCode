@@ -127,6 +127,7 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 | [0066-plus-one](https://github.com/kaku-coder/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/kaku-coder/LeetCode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/kaku-coder/LeetCode/tree/master/0202-happy-number) |
+| [0507-perfect-number](https://github.com/kaku-coder/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/kaku-coder/LeetCode/tree/master/0509-fibonacci-number) |
 ## Sorting
 |  |
