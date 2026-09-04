@@ -1,18 +1,17 @@
-/**
- * @param {number} num
- * @return {boolean}
- */
-
 var checkPerfectNumber = function(num) {
     if (num <= 1) return false;
-    
-    let sum = 0
 
-    for (let i = 1; i < num; i++) {
+    let sum = 1;
+
+    // Loop sirf sqrt(num) tak chalega (i * i <= num)
+    for (let i = 2; i * i <= num; i++) {
         if (num % i === 0) {
-            sum+=i
+            sum += i; // Chota factor
+            if (i * i !== num) {
+                sum += num / i; // Bada pair factor (jaise 28/2 = 14)
+            }
         }
     }
-    if(sum === num) return true
-    else return false
+
+    return sum === num;
 };
