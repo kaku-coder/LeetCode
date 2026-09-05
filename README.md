@@ -129,6 +129,7 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 | [0202-happy-number](https://github.com/kaku-coder/LeetCode/tree/master/0202-happy-number) |
 | [0507-perfect-number](https://github.com/kaku-coder/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/kaku-coder/LeetCode/tree/master/0509-fibonacci-number) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/kaku-coder/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Sorting
 |  |
 | ------- |
@@ -211,6 +212,7 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 | [0771-jewels-and-stones](https://github.com/kaku-coder/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/kaku-coder/LeetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1002-find-common-characters](https://github.com/kaku-coder/LeetCode/tree/master/1002-find-common-characters) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/kaku-coder/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/kaku-coder/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2351-first-letter-to-appear-twice](https://github.com/kaku-coder/LeetCode/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/kaku-coder/LeetCode/tree/master/2418-sort-the-people) |
@@ -238,4 +240,12 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/kaku-coder/LeetCode/tree/master/0509-fibonacci-number) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/kaku-coder/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/kaku-coder/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
