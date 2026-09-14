@@ -127,6 +127,7 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 | [0048-rotate-image](https://github.com/kaku-coder/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/kaku-coder/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/kaku-coder/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/kaku-coder/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/kaku-coder/LeetCode/tree/master/0202-happy-number) |
 | [0507-perfect-number](https://github.com/kaku-coder/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/kaku-coder/LeetCode/tree/master/0509-fibonacci-number) |
@@ -147,6 +148,7 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kaku-coder/LeetCode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/kaku-coder/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kaku-coder/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/kaku-coder/LeetCode/tree/master/0509-fibonacci-number) |
 ## Binary Search
@@ -241,6 +243,7 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/kaku-coder/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/kaku-coder/LeetCode/tree/master/0509-fibonacci-number) |
 ## Euclidean Algorithm
 |  |
