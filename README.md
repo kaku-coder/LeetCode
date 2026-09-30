@@ -72,6 +72,7 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kaku-coder/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/kaku-coder/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/kaku-coder/LeetCode/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/kaku-coder/LeetCode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/kaku-coder/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kaku-coder/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/kaku-coder/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -129,6 +130,7 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 | [0069-sqrtx](https://github.com/kaku-coder/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kaku-coder/LeetCode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/kaku-coder/LeetCode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/kaku-coder/LeetCode/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/kaku-coder/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/kaku-coder/LeetCode/tree/master/0509-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/kaku-coder/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -257,4 +259,24 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 |  |
 | ------- |
 | [0077-combinations](https://github.com/kaku-coder/LeetCode/tree/master/0077-combinations) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/kaku-coder/LeetCode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/kaku-coder/LeetCode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/kaku-coder/LeetCode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/kaku-coder/LeetCode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/kaku-coder/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
